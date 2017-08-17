@@ -1,7 +1,10 @@
 # student
 Computer Laboratory 01 
 #include <stdio.h>
-main()
+int main ()
 {
-    printf("hello, [chatwarin]\n");
+    char yourname[100];
+    printf("What is your name?\t");
+    scanf("%s",chatwarin);
+    printf("hello, %s\n",chatwarin);
 }
