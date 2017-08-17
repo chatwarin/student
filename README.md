@@ -7,4 +7,5 @@ int main ()
     printf("What is your name?\t");
     scanf("%s",chatwarin);
     printf("hello, %s\n",chatwarin);
+    printf("Goodbye\n");
 }
